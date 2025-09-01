@@ -1,3 +1,3 @@
 # Apnacollege-demo
 first git repository
-author - Robin Negi
+author - Robin Negi(JR)g
